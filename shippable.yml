@@ -8,4 +8,6 @@ before_script:
 
 script:
   - cp junit.xml  ./shippable/testresults
+  
+  
 archive: true
